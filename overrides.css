@@ -1,0 +1,6 @@
+@media (max-width:650px) {
+  .project h3 {
+    font-size:clamp(2rem,9vw,2.5rem);
+    overflow-wrap:anywhere;
+  }
+}
